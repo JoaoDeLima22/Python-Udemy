@@ -1,8 +1,8 @@
 import os
 
 # Defina o número inicial e o número final desejado
-inicio = 32
-fim = 50  # Substitua pelo número final desejado
+inicio = 33
+fim = 39  # Substitua pelo número final desejado
 
 # Obtém o diretório atual (onde o script está sendo executado)
 diretorio_atual = os.getcwd()
